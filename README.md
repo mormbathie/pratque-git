@@ -2,7 +2,7 @@
 1- cloner le projet sur son ordinateur local
 2- creer sa propre branche  (page-index)
 3- pusher sa branch sur le depots distant 
-
+4- fait pour moi
 ---------------------Timera--------------------
 1- cloner le projet sur son ordinateur local
 2- creer sa propre branche (page-style)
